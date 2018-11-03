@@ -7,4 +7,5 @@ package com.zn.demo.service;
  * @date 2018-11-03
  */
 public interface IDemoService {
+    public String get(String name);
 }
